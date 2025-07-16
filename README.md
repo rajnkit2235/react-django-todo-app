@@ -1,5 +1,29 @@
-# react_django_demo_app
-A demo app for React and Django Deployment
+# React Django To-Do App
 
-docker-compose down
-docker-compose up -d
+This is a full-stack To-Do web application built using:
+
+- 🖥️ **React** (Frontend)
+- ⚙️ **Django** (Backend)
+- 🗃️ **PostgreSQL** (Database)
+- 🐳 **Docker & Docker Compose** (Containerization)
+
+---
+
+## Features
+
+✅ Add, update, and delete tasks  
+✅ Track task completion  
+✅ Fully containerized using Docker  
+✅ Django REST API for backend  
+✅ React with Axios frontend
+
+---
+
+## Getting Started
+
+### Clone the Repo
+
+```bash
+git clone https://github.com/rajnkit2235/react-django-todo-app.git
+cd react-django-todo-app
+
