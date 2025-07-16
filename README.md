@@ -9,7 +9,7 @@ This is a full-stack To-Do web application built using:
 
 ---
 
-## Features
+## Features :
 
 ✅ Add, update, and delete tasks  
 ✅ Track task completion  
