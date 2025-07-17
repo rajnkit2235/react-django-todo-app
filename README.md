@@ -17,7 +17,6 @@ This is a full-stack To-Do web application built using:
 ✅ Django REST API for backend  
 ✅ React with Axios frontend
 
----
-
+-----
 
 
